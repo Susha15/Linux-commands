@@ -1,0 +1,9 @@
+ls Documents/ - list all the files in deocument folder
+ls / - show teh contenet of root directory
+ls ~ - is same as ls command, listing all the content.
+ls .. - list out the content of 1 step back directory structure.
+ls../.. -list out the content of 2 step back directory structure
+ls -l - list out content in long format
+ls -a -list out al hidden files.
+ls -al - long list of hidden file
+ls -lS - sort by directory size with long list
